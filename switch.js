@@ -1,4 +1,4 @@
-let Star = 3;
+let Star = 4;
 StarinNum = parseInt(Star);
 
 switch(StarinNum){
