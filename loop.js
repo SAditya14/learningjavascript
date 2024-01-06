@@ -5,5 +5,6 @@ for (userScore ; userScore<=10  ; userScore = userScore +1) {
           continue;
         }
      console.log(`your score is ${userScore}`);
-    
+    console.log(username);
 }
+console.log(username);
